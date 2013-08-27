@@ -92,7 +92,7 @@ public class Game {
 				descarregar();
 				break;
 			default:
-				System.out.println("Inválido");
+				System.out.println("Invalido");
 				break;
 			}
 		} while (!jogoAcabou());
