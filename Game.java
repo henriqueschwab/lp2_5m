@@ -88,7 +88,7 @@ public class Game {
 			case "abastecer":
 				abastecer();
 				break;
-			case "desabastecer":
+			case "descarregar":
 				descarregar();
 				break;
 			default:
